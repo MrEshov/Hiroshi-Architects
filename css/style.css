@@ -167,7 +167,7 @@ body {
 /* intro start */
 .intro {
     height: 100vh;
-    background: url(../images/main/secondBgImage.jpg) no-repeat 50%;
+    background: url(./images/main/secondBgImage.jpg) no-repeat 50%;
     background-size: cover;
     transition: background-image 3s;
 }
