@@ -23,7 +23,7 @@ buttons.forEach((button, index) => {
     if (index == '0') {
     button.style.width = '100px';
     button.style.backgroundColor = '#fff'
-    document.querySelector('.intro').style.backgroundImage = 'url("./images/main/firstBgImage.jpg")';
+    document.querySelector('.intro').style.backgroundImage = 'url("../images/main/firstBgImage.jpg")';
     document.querySelector('.intro').style.backgroundRepeat = 'no-repeat';
     document.querySelector('.intro').style.backgroundPosition = '50%';
     document.querySelector('.introSlider2').style.backgroundColor = 'rgb(150, 150, 150)';
